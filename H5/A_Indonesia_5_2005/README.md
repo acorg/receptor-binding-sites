@@ -6,15 +6,15 @@ This is the structure that is coloured in Bjorns paper [1]. Also shown is the RB
 
 Image1: Green: sites marked as those that lead to antigenic change in [1], yellow: sites marked as "near RBS" in [1]
 
-![Image1](Image1.png)
+![Image1](image1.png)
 
 Image2: Yellow: sites whose sidechains interact with the receptor, Red: sites whose main chains interact with the receptor [2]
 
-![Image2](Image2.png)
+![Image2](image2.png)
 
 Image3: Yellow: sites involved in receptor binding (note that this is H6). [3] 
 
-![Image3](Image3.png)
+![Image3](image3.png)
 
 # Dependencies:
 .pse files can be opened with pymol (see: https://pymolwiki.org/index.php/Linux_Install)
