@@ -20,7 +20,7 @@ See also
 # Dependencies:
 .pse files can be opened with pymol (see: https://pymolwiki.org/index.php/Linux_Install)
 
-references:
+# References:
 
 1- Antigenic Variation of Clade 2.1 H5N1 Virus Is Determined by a Few
 Amino Acid Substitutions Immediately Adjacent to the Receptor
