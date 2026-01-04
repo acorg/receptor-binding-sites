@@ -1,5 +1,5 @@
 reinitialize
-load HK68.pse, protein
+load 6tzb_clean.pse, protein
 space cmyk
 set bg_rgb=[1,1,1]
 
